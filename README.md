@@ -30,3 +30,4 @@ print("{:.2f}".format(dist))
 ![github logo](dist.png)
 
 ### RESULT:
+Thus, a python program to calculate the distance between the two points is executed successfully.   
